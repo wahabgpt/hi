@@ -4,12 +4,13 @@
     @media (prefers-color-scheme:dark){.t{fill:#fff}.h{fill:#000}}
   </style>
   <rect class="t" x="16" y="16" width="480" height="480" rx="110"/>
-  <g class="h" transform="translate(256 256) scale(1.2) translate(-257.5 -254.5)">
-  <polygon points="258,74 312,104 312,164 258,194 204,164 204,104"/>
-  <polygon points="150,134 204,164 204,224 150,254 96,224 96,164"/>
-  <polygon points="365,134 419,164 419,224 365,254 311,224 311,164"/>
-  <polygon points="150,255 204,285 204,345 150,375 96,345 96,285"/>
-  <polygon points="365,255 419,285 419,345 365,375 311,345 311,285"/>
-  <polygon points="258,315 312,345 312,405 258,435 204,405 204,345"/>
+  <g class="h" transform="translate(256 256)">
+    <rect x="-104" y="-184" width="34" height="104" rx="17" transform="rotate(60)"/>
+    <rect x="70" y="-184" width="34" height="104" rx="17" transform="rotate(-60)"/>
+    <rect x="-184" y="-52" width="34" height="104" rx="17"/>
+    <rect x="150" y="-52" width="34" height="104" rx="17"/>
+    <rect x="-104" y="80" width="34" height="104" rx="17" transform="rotate(-60)"/>
+    <rect x="70" y="80" width="34" height="104" rx="17" transform="rotate(60)"/>
+    <polygon points="0,-45 39,-22.5 39,22.5 0,45 -39,22.5 -39,-22.5"/>
   </g>
 </svg>
