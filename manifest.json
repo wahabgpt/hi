@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "My Khata",
+  "short_name": "Khata",
+  "description": "Free khata book: udhaar, stock, rent & bills",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "lang": "en",
+  "categories": [
+    "finance",
+    "business"
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
